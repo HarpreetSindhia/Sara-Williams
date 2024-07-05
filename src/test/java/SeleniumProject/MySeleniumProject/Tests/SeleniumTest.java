@@ -10,4 +10,10 @@ public class SeleniumTest {
 		System.out.println("Master Selenium framework by working on good projects");
 	}
 
+
+	@Test
+	public void masterSeleniumFramework() {
+		
+		System.out.println("Master Selenium framework by working on good projects");
+	}
 }
