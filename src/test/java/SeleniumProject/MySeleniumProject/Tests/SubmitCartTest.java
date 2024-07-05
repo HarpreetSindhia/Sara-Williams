@@ -32,6 +32,9 @@ public class SubmitCartTest extends BaseTest{
 	String inpCountry = "thai";
 	
 	String orgCountry = "Thailand";
+
+
+// God please bless me Thank you
 	
 	
 	@Test(dataProvider="getData",groups= {"NewPurchase"})
